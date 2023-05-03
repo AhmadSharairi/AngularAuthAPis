@@ -13,3 +13,5 @@ This project contains these steps :
 9. Implement Guards in Angular
 10. Create Role Based Login
 11. Create a Dummy Dashboard using Html Template
+##
+Angular Project : https://github.com/AhmadSharairi/AngularAuthUi.git
